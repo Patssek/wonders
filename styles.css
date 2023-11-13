@@ -1,0 +1,216 @@
+body{
+	background-image: url(11.jpg);
+	background-size: cover;
+	font-family: "Century Gothic";
+	margin: 10px;
+	padding: 5px;
+	background-color: burlywood;
+	text color: black;
+}
+header{
+	text-decoration-color: white;
+	color: white;
+	text-align: center;
+	padding: 5px;
+	margin: 10px;
+}
+footer{
+	color: white;
+	text-align: center;
+	padding: 10px;
+	position: none;
+	width: 100%;
+	bottom: 0;
+}
+
+*{
+	text text-decoration-color: white;
+	margin: 10px;
+	padding: 5px;
+	box-sizing: border-box;
+	font-family: "Century Gothic";
+}
+
+nav{
+	text-decoration-color: white;
+	background-color: burlywood;
+	display: flex;
+	justify-content:space-around ;
+	text-decoration: none;
+}
+
+h1{
+	color: white;
+	text-decoration-color: white;
+	padding: 5px;
+	margin: 10px;
+}
+p {
+	color: white;
+	font-family: "Century Gothic";
+	text-decoration-color: white;
+	padding: 5px;
+	margin: 10px;
+}
+h2{
+	color: white;
+	text-decoration-color: white;
+	padding: 5px;
+	margin: 10px;
+}
+
+.div class img{
+	background-color: burlywood;
+}
+body{
+	background-image: url(images/11.jpg);
+    text-decoration color: white;
+	background-size: cover;
+	font-family: "Century Gothic";
+	margin: 10px;
+	padding: 5px;
+}
+
+header{
+	text-decoration-color: white;
+	text-align: center;
+	padding: 10px;
+}
+footer{
+	text-decoration-color: white;
+	text-align: center;
+	position: none;
+	
+}
+p{
+	letter-spacing: 2px;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+}
+h1{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+h2{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+h3{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+form{
+	color: white;
+	padding: 10px;
+	margin: 5px;
+}
+li{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+a{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+h5{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+h4{
+	color: white;
+	padding: 5px;
+	margin: 10px;
+}
+.img scr{
+	margin: 10px;
+	padding: 5px;
+}
+body{
+	background-image: url(11.jpg);
+	background-size: cover;
+	font-family: "Century Gothic";
+	margin: 10px;
+	padding: 5px;
+	background-color: burlywood;
+	text-decoration: none;
+}
+header{
+	text-decoration-color: white;
+	color: white;
+	text-align: center;
+	padding: 5px;
+	margin: 10px;
+}
+footer{
+	color: white;
+	text-align: center;
+	padding: 10px;
+	position: none;
+	width: 100%;
+	bottom: 0;
+}
+
+*{
+	text text-decoration-color: white;
+	margin: 10px;
+	padding: 5px;
+	box-sizing: border-box;
+	font-family: "Century Gothic";
+}
+
+nav{
+	text-decoration-color: white;
+	background-color: burlywood;
+	display: flex;
+	justify-content:space-around ;
+	text-decoration: none;
+}
+
+h1{
+	color: white;
+	text-decoration-color: white;
+	padding: 5px;
+	margin: 10px;
+}
+p {
+	color: white;
+	font-family: "Century Gothic";
+	text-decoration-color: white;
+	padding: 5px;
+	margin: 10px;
+}
+h2{
+	color: white;
+	text-decoration-color: white;
+	padding: 5px;
+	margin: 10px;
+}
+
+.div class img{
+	background-color: burlywood;
+}
+.logo{
+	width: 30px;
+	height: 30px;
+	align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
